@@ -17,6 +17,6 @@
   },
   "author": "PTR",
   "devDependencies": {
-    "markdown-link-check": "^3.1.2"
+    "markdown-link-check": "^3.1.5"
   }
 }
