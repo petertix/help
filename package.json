@@ -1,0 +1,22 @@
+{
+  "name": "@petertix/help",
+  "version": "2.3.2",
+  "description": "Help Documentation",
+  "scripts": {
+    "build": "rm -rf dist && make BASEURL='/help'",
+    "start": "bundle exec jekyll serve",
+    "postversion": "npm run build",
+    "link-check": "find . -name '*.md' -not -path './node_modules/*' -not -path './_site/*' | xargs -n 1 -I % sh -c 'echo %; markdown-link-check %;'"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/petertix/help.git"
+  },
+  "author": "PTR",
+  "devDependencies": {
+    "markdown-link-check": "^3.1.2"
+  }
+}
