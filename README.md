@@ -2,6 +2,8 @@
 #  **Help Documentation** 
 ## Table of Contents
 
-### [**General Help Documentation**](docs/help_general/gen_TOC.md)
+* Help Documentation
 
-* General Help Documents
+https://intel-hpdd.github.io/Online-Help/
+
+### [**General Help Documentation**](docs/help_general/gen_TOC.md)
