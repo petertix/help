@@ -1,6 +1,6 @@
 # <a name="Top"></a>Git Info
 
-[**Software Contributor Documentation Table of Contents**](gen_TOC.md)
+[**Help Table of Contents**](gen_TOC.md)
 
 ![git info](md_Graphics/git_sm.jpg)
 

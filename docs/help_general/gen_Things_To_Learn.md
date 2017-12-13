@@ -1,6 +1,6 @@
 # <a name="Top"></a>Things to Learn
 
-[**Software Contributor Documentation Table of Contents**](gen_TOC.md)
+[**General Help Table of Contents**](gen_TOC.md)
 
 ![things to learn](md_Graphics/learn_sm.jpg)
 

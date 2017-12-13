@@ -1,6 +1,6 @@
 # <a name="Top"></a>NPM and Yarn
 
-[**Software Contributor Documentation Table of Contents**](cd_TOC.md)
+[**General Help Table of Contents**](gen_TOC.md)
 
 ![npm yarn](md_Graphics/npm_yarn_sm.jpg)
 
