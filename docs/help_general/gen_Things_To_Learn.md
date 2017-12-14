@@ -30,7 +30,7 @@ prettier | [https://github.com/prettier/prettier](https://github.com/prettier/pr
 **python** | [https://www.python.org/about/gettingstarted/](https://www.python.org/about/gettingstarted/)
 systemjs | [https://github.com/systemjs/systemjs](https://github.com/systemjs/systemjs)
 promises | [https://promisesaplus.com/](https://promisesaplus.com/)
- | | https://scotch.io/tutorials/javascript-promises-for-dummies
+promises | [https://scotch.io/tutorials/javascript-promises-for-dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)
 **redux / flux** | [http://redux.js.org/](http://redux.js.org/)
 Semantic Versioning | [https://docs.npmjs.com/getting-started/semantic-versioning](https://docs.npmjs.com/getting-started/semantic-versioning)
 Streams, Pipes, Buffers | [https://nodejs.org/api/stream.html](https://nodejs.org/api/stream.html)
