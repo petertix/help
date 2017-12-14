@@ -1,0 +1,22 @@
+language: ruby
+rvm: 2.1
+
+install:
+  - . $HOME/.nvm/nvm.sh
+  - nvm install 6
+  - nvm use 6
+  - npm install -g npm@latest
+  - bundle install --jobs=3 --retry=3
+
+script: 
+  - node --version
+  - npm --version
+  - npm run postversion
+
+deploy:
+  provider: npm
+  email: peter.timothy.robinson@gmail.com
+  skip_cleanup: true
+  on:
+    tags: true
+    repo: petertix/help
