@@ -2,7 +2,7 @@
 
 [**General Help Table of Contents**](gen_TOC.md)
 
-![npm yarn](md_Graphics/npm_yarn_sm.jpg)
+![npm yarn](md_graphics/npm_yarn_sm.jpg)
 
 ### **NPM** stands for Node Package Manager.
 ### **Yarn** is a new JavaScript package manager built by Facebook, Google, Exponent and Tilde.

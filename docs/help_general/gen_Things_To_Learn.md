@@ -2,9 +2,9 @@
 
 [**General Help Table of Contents**](gen_TOC.md)
 
-![things to learn](md_Graphics/learn_sm.jpg)
+![things to learn](md_graphics/learn_sm.jpg)
 
-### As a contributor to IML, the following topics and resources are important:
+### The following topics and resources are important:
 
 Topic | Link
 ------|-------

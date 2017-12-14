@@ -2,7 +2,7 @@
 
 [**Help Table of Contents**](gen_TOC.md)
 
-![git info](md_Graphics/git_sm.jpg)
+![git info](md_graphics/git_sm.jpg)
 
 ## Getting Started
 * [Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)

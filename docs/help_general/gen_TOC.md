@@ -2,7 +2,7 @@
 
 # **petertix**
 
-[**Help Docs Table of Contents**](../../README.md)
+[**Help Docs Table of Contents**](../../index.md)
 
 ---
 
