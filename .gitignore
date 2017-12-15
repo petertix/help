@@ -60,3 +60,5 @@ typings/
 dist
 vendor
 _site
+.DS_Store
+.bundle
