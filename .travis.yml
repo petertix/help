@@ -1,6 +1,13 @@
 language: ruby
 rvm: 2.1
 
+jobs:
+  include:
+    stage: virus-scan
+    script: sudo apt-get install clamav -y
+    script: sudo freshclam
+    script: clamscan --quiet -r ./
+    
 install:
   - . $HOME/.nvm/nvm.sh
   - nvm install 6
